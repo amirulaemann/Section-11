@@ -1,0 +1,18 @@
+html
+{
+  background-color: #90c4f0
+}
+p {
+  color: red;
+}
+input{
+  border-style: dashed;
+  border-color: red;
+}
+label{
+  color: darkblue;
+}
+textarea {
+  border-style: dashed;
+  border-color: red;
+}
